@@ -19,7 +19,7 @@ A lightweight video player that continuously plays random videos or snippets fro
 
 When you start GoonPlayer for the first time:
 
-1. The Settings dialog will open automatically
+1. Click the settings button to open the Settings dialog
 2. Click **Add Folder** and browse to a folder containing your videos
 3. (Optional) Add more folders
 4. Configure your playback preferences (see below)
