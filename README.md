@@ -360,7 +360,6 @@ Debug is automatically enabled when running from Python source.
 ## Contributing
 
 Contributions are welcome! Please feel free to:
-- Report bugs via GitHub Issues
 - Suggest new features
 - Submit pull requests
 
@@ -370,19 +369,7 @@ Before contributing code, see [DEVELOPMENT.md](docs/DEVELOPMENT.md) for architec
 
 ## License
 
-[Add your license here - e.g., MIT, GPL, etc.]
-
----
-
-## Future Enhancements
-
-- [ ] Playlist support with save/load
-- [ ] Video search and filtering
-- [ ] Customizable keyboard shortcuts
-- [ ] Theme/UI customization
-- [ ] Linux and macOS builds
-- [ ] Video thumbnails
-- [ ] Watch history tracking
+AGPL-3.0
 
 ---
 
