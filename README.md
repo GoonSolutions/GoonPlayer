@@ -357,16 +357,6 @@ Debug is automatically enabled when running from Python source.
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please feel free to:
-- Suggest new features
-- Submit pull requests
-
-Before contributing code, see [DEVELOPMENT.md](docs/DEVELOPMENT.md) for architecture details and testing guidelines.
-
----
-
 ## License
 
 AGPL-3.0
